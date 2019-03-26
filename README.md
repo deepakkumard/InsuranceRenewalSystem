@@ -78,24 +78,23 @@ There is format to send SMS message called "SMS SEND ACTION".If we use this form
 
 The system is built in such a way that it sends the notification based on the taxes revised by the Government and it calculates and sends the premium amount based on the agent commission. For example, if the percentage of the GST for the insurance renewal is 5% the amount for the renewal will be calculated along with that percentage. 
 
+ # Payment Integration
+    
+  The inclusion of the payments is that all the miscellaneous payments regarding the renewal of the policies which are undertaken by the client or customer for their motor vehicle. The payment can be done with the revised GST amount and the other taxes.
+
  # Future Enhancement
   
   Once the insurance has been renewaled, the new insurance policy pdf will be generated automatically and send to the customer via Email.
+  Generate an Endorsement details for the same policy number.
 
 # Demo video
 
 https://www.youtube.com/watch?v=r_RXWAzcceU&feature=youtu.be
 
-# Pending Task
-
- # Payment Integration
-    
-  The inclusion of the payments is that all the miscellaneous payments regarding the renewal of the policies which are undertaken by the client or customer for their motor vehicle. The payment can be done with the revised GST amount and the other taxes.
-
 
 # Project Status
 
-Completed (80%)
+Completed (100%)
  
     
 
